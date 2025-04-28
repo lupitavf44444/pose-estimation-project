@@ -1,6 +1,7 @@
-tensorflow
-opencv-python
-pandas
+tensorflow>=2.16
 tensorflow-hub
 tensorflow-addons
+opencv-python
+pandas
 matplotlib
+jupyter
