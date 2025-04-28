@@ -1,6 +1,6 @@
 tensorflow>=2.16
 tensorflow-hub
-tensorflow-addons
+tensorflow-addons==0.19.0
 opencv-python
 pandas
 matplotlib
